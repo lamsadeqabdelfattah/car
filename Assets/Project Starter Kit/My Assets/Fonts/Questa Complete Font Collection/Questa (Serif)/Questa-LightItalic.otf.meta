@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 8fb4e772621f1da46956710f3a617a58
+timeCreated: 1554964798
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Questa
+  fontNames:
+  - Questa
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7cdb4950e4bcd974d89cdc33bf440014, type: 3}
+  - {fileID: 12800000, guid: 5cb7bdd0484fa664683fe19d37bf55db, type: 3}
+  - {fileID: 12800000, guid: 3ac85231f97ac714584d3d2dc5f9abac, type: 3}
+  - {fileID: 12800000, guid: 5577c3387b8d5ee46bd87fb06c23f874, type: 3}
+  - {fileID: 12800000, guid: 268a5a7f987dd434da83727cb296f5d0, type: 3}
+  - {fileID: 12800000, guid: 2508e88ffeeba1540b63a2baf6198a93, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

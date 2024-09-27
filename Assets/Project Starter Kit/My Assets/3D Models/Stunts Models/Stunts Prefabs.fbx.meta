@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 8b0930d0efad9ac409858a058297b1bf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ring
+    100002: Stunt_01
+    100004: Stunt_02_a
+    100006: Stunt_02_b
+    100008: Stunt_02_box
+    100010: Stunt_03
+    100012: Stunt_04
+    100014: Stunt_05
+    100016: Stunt_06
+    100018: //RootNode
+    400000: Ring
+    400002: Stunt_01
+    400004: Stunt_02_a
+    400006: Stunt_02_b
+    400008: Stunt_02_box
+    400010: Stunt_03
+    400012: Stunt_04
+    400014: Stunt_05
+    400016: Stunt_06
+    400018: //RootNode
+    2300000: Ring
+    2300002: Stunt_01
+    2300004: Stunt_02_a
+    2300006: Stunt_02_b
+    2300008: Stunt_02_box
+    2300010: Stunt_03
+    2300012: Stunt_04
+    2300014: Stunt_05
+    2300016: Stunt_06
+    3300000: Ring
+    3300002: Stunt_01
+    3300004: Stunt_02_a
+    3300006: Stunt_02_b
+    3300008: Stunt_02_box
+    3300010: Stunt_03
+    3300012: Stunt_04
+    3300014: Stunt_05
+    3300016: Stunt_06
+    4300000: Stunt_04
+    4300002: Stunt_03
+    4300004: Stunt_02_a
+    4300006: Stunt_02_box
+    4300008: Stunt_01
+    4300010: Ring
+    4300012: Stunt_02_b
+    4300014: Stunt_06
+    4300016: Stunt_05
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: e2c9715a8e240b349a71bfe43ca5fbe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: fcb2733f98386154ebfb27c4b6a0bbf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 2c54423d767100a4588c1228298ea03e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 8e21a706454c9534e9efc2fdfb90e7ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: d7b7393c9af4e2b4bbf37a6b5f146084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: 881f395fd597a0c4cbf4ccf5ad2d36cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wooden
+    second: {fileID: 2100000, guid: 1f891f0bfb23d5c4bab0a90242156c5a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
